@@ -1,1 +1,2 @@
-vamos a aprender a subir cosas a git hub porque paraece que ya se nos olvidó.
+vamos a aprender a subir cosas a git hub porque paraece que ya se nos olvidó. 
+Despues de hacer el primer commit escribimos a ver que pasa. 
